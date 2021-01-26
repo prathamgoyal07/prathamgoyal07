@@ -1,10 +1,17 @@
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I have a love/hate relationship with Programming :neutral_face:</h3>
+<p align="left">
+ ![quote](https://user-images.githubusercontent.com/65220090/105859133-2e748c80-6012-11eb-821d-9ad9102f703e.jpg)
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathamgoyal07" alt="prathamgoyal07" /></a> </p>
-
+<p align="right">
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+  ![quote](https://user-images.githubusercontent.com/65220090/105859133-2e748c80-6012-11eb-821d-9ad9102f703e.jpg)
+  <br><br>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
