@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 
-<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="500" width= "500"> 
+<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="400" width= "350"> 
 
 ```javascript
 const Pratham Goyal = {
