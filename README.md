@@ -3,7 +3,7 @@
 
 [![Linkedin: prathamgoyal07](https://img.shields.io/badge/-prathamgoyal07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07)](https://www.linkedin.com/in/prathamgoyal07/)
 <p align="right">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="100" width= "100"> 
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="40" width= "30"> 
   <br><br></p>
   
 </p>
@@ -17,7 +17,7 @@ const Pratham Goyal = {
 ```
 
 <p align="right">
-<img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="100" width= "100"> </p>
+<img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30"> </p>
 
 **Connect With Me Here:**  
 
