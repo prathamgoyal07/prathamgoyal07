@@ -45,11 +45,11 @@ const Pratham Goyal = {
 <a  href="https://github.com/prathamgoyal07">
 
 
-<img  height="180" width="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&locale=en&layout=compact" />
+<img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&locale=en&layout=compact" />
 
   
 
-<img  height="180" width="200" src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&locale=en" />
+<img  height="300" width="400" src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&locale=en" />
 
   
 
