@@ -1,7 +1,8 @@
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 <h3 align="center">I have a love/hate relationship with Programming :neutral_face:</h3>
 <p align="left">
- ![quote](https://user-images.githubusercontent.com/65220090/105859133-2e748c80-6012-11eb-821d-9ad9102f703e.jpg)
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.hongkiat.com%2Fuploads%2Fprogramming-jokes%2Fjoke-see-sharp.jpg&imgrefurl=https%3A%2F%2Fwww.hongkiat.com%2Fblog%2Fprogramming-jokes%2F&tbnid=SBDgk4e9pdKL7M&vet=12ahUKEwiX_IDG6rnuAhXKHbcAHYcpDa4QMygHegUIARCUAQ..i&docid=mdjZUKhkXVa0uM&w=700&h=420&q=programming%20quotes&ved=2ahUKEwiX_IDG6rnuAhXKHbcAHYcpDa4QMygHegUIARCUAQ" width=100>
+ <br><br>
 </p>
 
 
@@ -9,7 +10,6 @@
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  ![quote](https://user-images.githubusercontent.com/65220090/105859133-2e748c80-6012-11eb-821d-9ad9102f703e.jpg)
   <br><br>
 </p>
 
