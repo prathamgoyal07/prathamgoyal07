@@ -10,13 +10,8 @@ const Pratham Goyal = {
                         (see sharp)"
 }
 ```
-
-
- <br/>
- 
-
+<br/>
 **Connect With Me Here:**  
-
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
 <a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="30" width="40" /></a>
@@ -25,9 +20,6 @@ const Pratham Goyal = {
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
   
- <br/>
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -46,23 +38,7 @@ const Pratham Goyal = {
 <br/>
 
 **My GitHub Activity:**
-<br/>
-
 <a  href="https://github.com/prathamgoyal07">
-
-
 <img height="400" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&locale=en&layout=compact" />
-
-  
-
 <img  height="400" width="500" src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&locale=en" />
-
-  
-
 </a>
-
-  
-
-  
-
-<br/>
