@@ -1,15 +1,13 @@
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" <pre>
+
  
 [![Linkedin: prathamgoyal07](https://img.shields.io/badge/-prathamgoyal07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07)](https://www.linkedin.com/in/prathamgoyal07/)
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
 
-<p align="right">
-  <img src=" https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e478arhwkdszr7prlv1nbdk7hwjqunfbm7nv3xx0avb&rid=200w.webp" width=100>
-  <br><br>
 
-<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230" >
+
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="430" >
 </p>
 
 ```javascript
@@ -24,10 +22,10 @@ const Pratham Goyal = {
 <h4 align="left">Connect With Me Here:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
-<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imprathamgoyal07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratham_goyal" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prathamgoyal157" height="30" width="40" /></a>
-<a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
+<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" alt="imprathamgoyal07" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codechef.svg" alt="pratham_goyal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/hackerrank.svg" alt="prathamgoyal157" height="30" width="40" /></a>
+<a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
 <p align="right">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100> 
