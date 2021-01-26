@@ -1,12 +1,7 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 
-[![Linkedin: prathamgoyal07](https://img.shields.io/badge/-prathamgoyal07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07)](https://www.linkedin.com/in/prathamgoyal07/)
-<p align="right">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="100" width= "100"> 
-  <br><br></p>
-  
-</p>
+<img align='right' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="200" width= "230"> 
 
 ```javascript
 const Pratham Goyal = {
@@ -15,17 +10,11 @@ const Pratham Goyal = {
                         (see sharp)"
 }
 ```
+<img align='right' src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
 
-<br/>
-
-<a  href="https://github.com/prathamgoyal07">
-
-<p align="left"> 
-<img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
-</p>
   
 
-<h3 align="left">Connect With Me:</h3> 
+**Connect With Me Here:**  
 
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
@@ -35,24 +24,7 @@ const Pratham Goyal = {
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
   
-
-</a>
-
-  
-
-  
-
-<br/>
-
-
-
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -67,16 +39,11 @@ const Pratham Goyal = {
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-
-
-
-
 **My GitHub Activity:**
 <br/>
 
 <a  href="https://github.com/prathamgoyal07">
 
-  
 
 <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&locale=en&layout=compact" />
 
