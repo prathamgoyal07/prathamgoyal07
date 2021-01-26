@@ -9,11 +9,27 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" /> </p>
 
+[![Linkedin: prathamgoyal07](https://img.shields.io/badge/-c-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07/)](https://www.linkedin.com/in/prathamgoyal07/)
+
 <p align="right">
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
+ 
   <br><br>
 </p>
+<p align="right">
+  <img src=" https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e478arhwkdszr7prlv1nbdk7hwjqunfbm7nv3xx0avb&rid=200w.webp" width=100>
+ 
+  <br><br>
+</p>
+```javascript
+{
+Q: Why do Java Programmers have to wear glasses?
+A: Because they don't C#.
+                (see sharp)
+}
+```
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
