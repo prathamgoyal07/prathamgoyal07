@@ -1,7 +1,8 @@
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 <h3 align="center">I have a love/hate relationship with Programming :neutral_face:</h3>
 <p align="left">
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fassets.hongkiat.com%2Fuploads%2Fprogramming-jokes%2Fjoke-see-sharp.jpg&imgrefurl=https%3A%2F%2Fwww.hongkiat.com%2Fblog%2Fprogramming-jokes%2F&tbnid=SBDgk4e9pdKL7M&vet=12ahUKEwiX_IDG6rnuAhXKHbcAHYcpDa4QMygHegUIARCUAQ..i&docid=mdjZUKhkXVa0uM&w=700&h=420&q=programming%20quotes&ved=2ahUKEwiX_IDG6rnuAhXKHbcAHYcpDa4QMygHegUIARCUAQ" width=100>
+
+ <img src="https://assets.hongkiat.com/uploads/programming-jokes/joke-see-sharp.jpg" alt="">
  <br><br>
 </p>
 
@@ -15,14 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pratham goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="pratham goyal" height="30" width="40" /></a>
-<a href="https://fb.com/pratham goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="pratham goyal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
 <a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imprathamgoyal07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pratham_goyal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="prathamgoyal157" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pratham_goyal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="pratham_goyal" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prathamgoyal157" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="prathamgoyal157" height="30" width="40" /></a>
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
 
