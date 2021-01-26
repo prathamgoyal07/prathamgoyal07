@@ -22,15 +22,13 @@ const Pratham Goyal = {
 ```
 
 ```javascript
-const Archit Garg = {
-  pronouns: "He" | "Him",
+const Pratham Goyal = {
+  pronouns:  "Q: Why do Java Programmers have to wear glasses?",
   code: ["Javascript", "Java", "HTML", "C++],
   tools: ["React","Node","Express"],
   askMeAbout: ["web dev", "tech", "photography"]
 }
 ```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
 <a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="imprathamgoyal07" height="30" width="40" /></a>
