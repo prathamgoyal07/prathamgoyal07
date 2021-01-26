@@ -1,8 +1,8 @@
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" <br><br>
 
-[![Linkedin: prathamgoyal07](https://img.shields.io/badge/-prathamgoyal07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07)](https://www.linkedin.com/in/prathamgoyal07/)/> 
+[![Linkedin: prathamgoyal07](https://img.shields.io/badge/-prathamgoyal07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07)](https://www.linkedin.com/in/prathamgoyal07/)
 </p>
 
 <p align="right">
