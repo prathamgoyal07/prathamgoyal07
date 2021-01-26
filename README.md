@@ -22,9 +22,9 @@ const Pratham Goyal = {
 <h4 align="left">Connect With Me Here:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="40" width="40" /></a>
-<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="imprathamgoyal07" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/codechef_button_icon_151902.png" alt="pratham_goyal" height="30" width="80" /></a>
-<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAWlBMVEUNFB4A6mT///8AAAANEh4NABwA62QNABoADBgEDhoNABg0OD8ImkgA72YFv1UnLDIAABC4ubvCw8Xv7/AAAAj29vaPkZOcnaAAABIKdjsHnkmztLW+v8ESGSLs8eGCAAAA/0lEQVR4nO3cOQ7CMBBAUcDsENaEnftfkwYapkEWCsR6r80U/nIVR3GvBwAAAAAAAAAAAAAAAAAAANCeYZ62ljdLm3d1nKrDUJq9no0yTVoKvDeDd4eQmI5haH96BZ6rfo7xpZ3E6SKsfbBNoXAXp9bPTZxcqnGOajXvSuEybw8VKlSoUKFChQoVKlSoUKFChQoVKlSoUOHvC68puJVV2OyD+HGj04WfUahQoUKFChUqVKhQoUKFCrteWP47fvnnNOWftSlUqFChQoUKFSpUqFChQoUKFSpUqFChwqzCP/8fv/w7Fcq/F+Mb/vxuEwAAAAAAAAAAAAAAAAAAAKDTHoDCYDr8qkOBAAAAAElFTkSuQmCC" alt="prathamgoyal157" height="30" width="40" /></a>
+<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/codechef_button_icon_151902.png" alt="pratham_goyal" height="30" width="100" /></a>
+<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" alt="prathamgoyal157" height="30" width="40" /></a>
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
 <p align="right">
