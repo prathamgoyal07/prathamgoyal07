@@ -20,12 +20,12 @@ const Pratham Goyal = {
 
 <a  href="https://github.com/prathamgoyal07">
 
-  
+<p align="left"> 
 <img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
-
+</p>
   
 
-**Connect With Me Here:**  
+<h3 align="left">Connect With Me:</h3> 
 
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
