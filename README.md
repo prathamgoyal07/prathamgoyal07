@@ -20,6 +20,15 @@ const Pratham Goyal = {
                  (see sharp)
 }
 ```
+
+```javascript
+const Archit Garg = {
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Java", "HTML", "C++],
+  tools: ["React","Node","Express"],
+  askMeAbout: ["web dev", "tech", "photography"]
+}
+```
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
