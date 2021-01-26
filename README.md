@@ -3,7 +3,7 @@
 
 [![Linkedin: prathamgoyal07](https://img.shields.io/badge/-prathamgoyal07-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prathamgoyal07)](https://www.linkedin.com/in/prathamgoyal07/)
 <p align="right">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="40" width= "30"> 
+  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="100" width= "100"> 
   <br><br></p>
   
 </p>
@@ -16,8 +16,14 @@ const Pratham Goyal = {
 }
 ```
 
-<p align="right">
-<img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30"> </p>
+<br/>
+
+<a  href="https://github.com/prathamgoyal07">
+
+  
+<img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
+
+  
 
 **Connect With Me Here:**  
 
@@ -28,6 +34,17 @@ const Pratham Goyal = {
 <a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" alt="prathamgoyal157" height="30" width="40" /></a>
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
+  
+
+</a>
+
+  
+
+  
+
+<br/>
+
+
 
 
 
