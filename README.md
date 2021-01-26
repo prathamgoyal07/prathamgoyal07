@@ -22,8 +22,8 @@ const Pratham Goyal = {
 <h4 align="left">Connect With Me Here:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
-<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" alt="imprathamgoyal07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codechef.svg" alt="pratham_goyal" height="30" width="40" /></a>
+<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/2x/instagram-new.png" alt="imprathamgoyal07" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/codechef_button_icon_151902.png" alt="pratham_goyal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/hackerrank.svg" alt="prathamgoyal157" height="30" width="40" /></a>
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
