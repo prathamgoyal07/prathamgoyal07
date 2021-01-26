@@ -29,7 +29,10 @@ const Pratham Goyal = {
 
 
 
-<br><br>
+<p align="right">
+  <img src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="100" width= "100"> 
+  <br><br>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,7 +46,7 @@ const Pratham Goyal = {
 **My GitHub Activity:**
 <br/>
 
-<a  href="https://github.com/devanshee26">
+<a  href="https://github.com/prathamgoyal07">
 
   
 
@@ -62,28 +65,3 @@ const Pratham Goyal = {
   
 
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
