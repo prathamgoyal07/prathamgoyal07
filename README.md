@@ -9,7 +9,7 @@
   <br><br>
 </p>
 <p align="right">
-  <img src=" https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e478arhwkdszr7prlv1nbdk7hwjqunfbm7nv3xx0avb&rid=200w.webp" width=100>
+  <img src=" https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e478arhwkdszr7prlv1nbdk7hwjqunfbm7nv3xx0avb&rid=200w.webp" width=200>
   <br><br>
 </p>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230" >
@@ -20,8 +20,6 @@ const Pratham Goyal = {
   Question:"Why do Java Programmers have to wear glasses?",
   Answer: "Because they don't C#.
                         (see sharp)"
-  tools: ["React","Node","Express"],
-  askMeAbout: ["web dev", "tech", "photography"]
 }
 ```
 <p align="left">
