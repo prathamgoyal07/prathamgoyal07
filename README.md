@@ -23,7 +23,7 @@ const Pratham Goyal = {
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="40" width="40" /></a>
 <a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/128/codechef_button_icon_151902.png" alt="pratham_goyal" height="40" width="120" /></a>
+<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/breads-and-grains-icons/467/Baker-128.png" alt="pratham_goyal" height="40" width="120" /></a>
 <a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" alt="prathamgoyal157" height="40" width="40" /></a>
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="40" width="40" /></a>
 </p>
