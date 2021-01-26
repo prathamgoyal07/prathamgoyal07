@@ -10,8 +10,10 @@ const Pratham Goyal = {
                         (see sharp)"
 }
 ```
-<br/>
-**Connect With Me Here:**  
+
+
+**Connect With Me Here:** 
+
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
 <a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="30" width="40" /></a>
@@ -38,6 +40,7 @@ const Pratham Goyal = {
 <br/>
 
 **My GitHub Activity:**
+
 <a  href="https://github.com/prathamgoyal07">
 <img height="400" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&locale=en&layout=compact" />
 <img  height="400" width="500" src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&locale=en" />
