@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 
-<img align='right' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="200" width= "230"> 
+<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="150" width= "200"> 
 
 ```javascript
 const Pratham Goyal = {
@@ -10,7 +10,7 @@ const Pratham Goyal = {
                         (see sharp)"
 }
 ```
-<img align='right' src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
+
 
   
 
