@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
 <h1 align="center">Hi✌ I'm Pratham Goyal</h1>
 
-<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="350" width= "400"> 
+<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="350" width= "450"> 
 
 ```javascript
 const Pratham Goyal = {
@@ -12,7 +12,8 @@ const Pratham Goyal = {
 ```
 
 
-  
+ <br/>
+ 
 
 **Connect With Me Here:**  
 
@@ -24,6 +25,9 @@ const Pratham Goyal = {
 <a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
 </p>
   
+ <br/>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -38,6 +42,8 @@ const Pratham Goyal = {
 <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+
+<br/>
 
 **My GitHub Activity:**
 <br/>
