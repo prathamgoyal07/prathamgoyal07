@@ -13,18 +13,13 @@
   <br><br>
 </p>
 <img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="230" >
-```javascript
-const Pratham Goyal = {
- Q: Why do Java Programmers have to wear glasses?
- A: Because they don't C#.
-                 (see sharp)
-}
-```
+
 
 ```javascript
 const Pratham Goyal = {
-  pronouns:  "Q: Why do Java Programmers have to wear glasses?",
-  code: ["Javascript", "Java", "HTML", "C++],
+  Question:"Why do Java Programmers have to wear glasses?",
+  Answer: "Because they don't C#.
+                        (see sharp)"
   tools: ["React","Node","Express"],
   askMeAbout: ["web dev", "tech", "photography"]
 }
