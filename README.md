@@ -31,11 +31,6 @@ const Pratham Goyal => {
 }
 ```
 
-<br/>
-
-
-<img align='right' src="https://media0.giphy.com/media/j5P0DQIOf4PonLi55G/200.webp?cid=ecf05e4751eaji20d4368v4eqrdtfwjfyip6ao0tlpdrkkoc&rid=200.webp" height="100" width= "150">
-
 
 <br/>
 
