@@ -1,10 +1,11 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Pratham Goyal.
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07"</p>
+
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Pratham Goyal.</h1>
 
 <p align="left">
 <a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" />
 </a>
-<a href="https://twitter.com/im_prathamgoyal">
-  <img align="left" alt="Pratham Goyal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/im_prathamgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="im_prathamgoyal" height="30" width="40" />
 </a>
 <a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="30" width="40" />
 </a>
@@ -14,12 +15,12 @@
 </a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07"</p>
 
 
 <br />
 
-<img align='left' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="200" width= "230">
+
+<img align='left' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="150" width= "180">
 
 
 ```javascript
@@ -29,20 +30,26 @@ const Pratham Goyal => {
                         (see sharp)"
 }
 ```
+
 <br/>
 
-**Talking about Personal Stuffs:**
+
+<img align='right' src="https://media0.giphy.com/media/j5P0DQIOf4PonLi55G/200.webp?cid=ecf05e4751eaji20d4368v4eqrdtfwjfyip6ao0tlpdrkkoc&rid=200.webp" height="100" width= "150">
+
+
+<br/>
+
+
+<h2 align="left">Talking about Personal Stuffs:</h2>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning JAVA & Full Stack Web Developement 🚀 ; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me:[prathamgoyal157@gmail.com](https://img.icons8.com/color/2x/gmail-login.png);
+- 📫 How to reach me:[📧prathamgoyal157@gmail.com];
 
 
-<img align='right' src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
- 
 
-<h3 align="left">Languages👨🏻‍💻 & Tools🔧=></h3>
+<h3 align="left">Languages🅰️ & Tools🔧:</h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -59,13 +66,13 @@ const Pratham Goyal => {
 
 <br/>
 
-**My GitHub Activity:**
+<h2 align="left">My GitHub Activity :</h2>
 <br/>
 
 <a  href="https://github.com/prathamgoyal07">
 
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=gotham" />
+<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=gotham" />
 
   
 
