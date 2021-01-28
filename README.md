@@ -1,28 +1,48 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07" </p>
-<h1 align="center">Hi✌ I'm Pratham Goyal</h1>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm Pratham Goyal.
 
-<img align='right' src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" height="350" width= "450"> 
+<p align="left">
+<a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" />
+</a>
+<a href="https://twitter.com/im_prathamgoyal">
+  <img align="left" alt="Pratham Goyal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="30" width="40" />
+</a>
+<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" alt="prathamgoyal157" height="30" width="40" />
+</a>
+<a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" />
+</a>
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=prathamgoyal07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamgoyal07"</p>
+
+
+<br />
+
+<img align='left' src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" height="200" width= "230">
+
 
 ```javascript
-const Pratham Goyal = {
+const Pratham Goyal => {
   Question:"Why do Java Programmers have to wear glasses?",
   Answer: "Because they don't C#.
                         (see sharp)"
 }
 ```
+<br/>
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning JAVA & Full Stack Web Developement 🚀 ; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me:[prathamgoyal157@gmail.com](https://img.icons8.com/color/2x/gmail-login.png);
 
 
-**Connect With Me Here:** 
+<img align='right' src="https://media0.giphy.com/media/1yk0v6WtCinP5Ptz6G/200w.webp?cid=ecf05e47cwu8r8dxfi90toav2uvb1ajyv1kt1wlfe1knf8qx&rid=200w.webp" height="40" width= "30">
+ 
 
-<p align="left">
-<a href="https://linkedin.com/in/prathamgoyal07" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="prathamgoyal07" height="30" width="40" /></a>
-<a href="https://instagram.com/imprathamgoyal07" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-128.png" alt="imprathamgoyal07" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pratham_goyal" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/food-part-1-1/64/_Chef_Hat_Moustache-128.png" alt="pratham_goyal" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/prathamgoyal157" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-128.png" alt="prathamgoyal157" height="30" width="40" /></a>
-<a href="https://discord.gg/pratham#0088" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="pratham#0088" height="30" width="40" /></a>
-</p>
-  
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages👨🏻‍💻 & Tools🔧=></h3>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -37,9 +57,18 @@ const Pratham Goyal = {
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<br/>
 
 **My GitHub Activity:**
+<br/>
+
 <a  href="https://github.com/prathamgoyal07">
-<img height="200"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&locale=en&layout=compact" />
-<img  height="200" src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&locale=en" />
+
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=gotham" />
+
+  
+
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=gotham" />
+
 </a>
