@@ -35,7 +35,7 @@ const Pratham Goyal => {
 <br/>
 
 
-<h2 align="left">Talking about Personal Stuffs:</h2>
+<h2 align="left">Talking about Personal Stuffs👨🏻‍💼 :</h2>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning JAVA & Full Stack Web Developement 🚀 ; 
@@ -61,10 +61,11 @@ const Pratham Goyal => {
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
+
 <br/>
 
-<h2 align="left">My GitHub Activity :</h2>
-<br/>
+
+<h2 align="left">My GitHub Activity 📈:</h2>
 
 <a  href="https://github.com/prathamgoyal07">
 
