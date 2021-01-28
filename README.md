@@ -48,6 +48,14 @@ const Pratham Goyal => {
 - 📫 How to reach me:[📧prathamgoyal157@gmail.com];
 
 
+<br/>
+
+
+<img align='right' src="https://media0.giphy.com/media/j5P0DQIOf4PonLi55G/200.webp?cid=ecf05e4751eaji20d4368v4eqrdtfwjfyip6ao0tlpdrkkoc&rid=200.webp" height="100" width= "150">
+
+
+<br/>
+
 
 <h3 align="left">Languages🅰️ & Tools🔧:</h3>
 <p align="left"> 
@@ -72,10 +80,10 @@ const Pratham Goyal => {
 <a  href="https://github.com/prathamgoyal07">
 
 
-<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=gotham" />
+<img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
 
   
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=gotham" />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
 
 </a>
