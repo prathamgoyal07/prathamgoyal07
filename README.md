@@ -69,10 +69,9 @@ const Pratham Goyal => {
 <a  href="https://github.com/prathamgoyal07">
 
 
+<img height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
+
+
 <img  height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
-
-  
-
-<img &nbsp height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
 
 </a>
