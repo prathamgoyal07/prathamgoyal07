@@ -46,13 +46,7 @@ const Pratham Goyal => {
 <br/>
 
 
-<img align='right' src="https://media0.giphy.com/media/j5P0DQIOf4PonLi55G/200.webp?cid=ecf05e4751eaji20d4368v4eqrdtfwjfyip6ao0tlpdrkkoc&rid=200.webp" height="100" width= "150">
-
-
-<br/>
-
-
-<h3 align="left">Languages🅰️ & Tools🔧:</h3>
+<h2 align="left">Languages🅰️ & Tools🔧:</h2>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -79,6 +73,6 @@ const Pratham Goyal => {
 
   
 
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
+<img &nbsp height="180em"  src="https://github-readme-stats.vercel.app/api?username=prathamgoyal07&show_icons=true&theme=tokyonight" />
 
 </a>
